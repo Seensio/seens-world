@@ -73,3 +73,13 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Mac & IDE Specific Files
+.DS_Store
+.vscode/
+*.xcworkspace
+*.xcodeproj
+
+# Seens Asset Routing (Ignored here, handled by Hugging Face)
+Content/CommunityAssets/
+Content/RawImports/
