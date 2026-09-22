@@ -1,0 +1,4 @@
+# Local Cesium streaming cache and SQLite sidecar files.
+cesium-request-cache.sqlite*
+# Per-developer Cesium ion settings can contain access tokens.
+Content/CesiumSettings/
